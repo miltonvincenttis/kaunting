@@ -1,4 +1,4 @@
-###### (c) Copyright 2016 - Milton Vincenttis
+###### Copyright (c) 2016 - Milton Vincenttis
 ---
 
 ![kaunting-logo](/resources/img/kaunting-icon.png)
